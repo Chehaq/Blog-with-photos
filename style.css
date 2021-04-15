@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    font-family: cursive;
+    font-size: 50px;
+    }
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+        display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-item: center;
+    
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: beige
+}
+
+img {
+  width: 500px;
+  padding: 4px;
+  border-width:2px;
+  border-style:dashed;
+  margin-right: 20px;
+  
+}
